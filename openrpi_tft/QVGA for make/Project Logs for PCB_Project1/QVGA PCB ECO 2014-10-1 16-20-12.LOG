@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=26 Old Footprint=raspberry_b New Footprint=GPIO13x2
+Change Component Designator: OldDesignator=26 NewDesignator=P1
+Change Component Designator: OldDesignator=26 NewDesignator=P2
+Added Member To Class: ClassName=QVGA Member=Component P1 raspberry_b
+Added Room: Name=QVGA
