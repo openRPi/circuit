@@ -1,0 +1,19 @@
+Added Component: Designator=T1(TM022HDH26)
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=LCD_RESET Pin=T1-2
+Added Pin To Net: NetName=LCD_RESET Pin=T1-2
+Added Pin To Net: NetName=LCD_SCLK Pin=T1-3
+Added Pin To Net: NetName=LCD_DC Pin=T1-4
+Added Pin To Net: NetName=LCD_Q_CS Pin=T1-5
+Added Pin To Net: NetName=LCD_SDI Pin=T1-6
+Added Pin To Net: NetName=LCD_SDO Pin=T1-7
+Added Pin To Net: NetName=GND Pin=T1-8
+Added Pin To Net: NetName=3.3V Pin=T1-9
+Added Pin To Net: NetName=3.3V Pin=T1-10
+Added Pin To Net: NetName=LEDK Pin=T1-11
+Added Pin To Net: NetName=LEDK Pin=T1-12
+Added Pin To Net: NetName=LEDK Pin=T1-13
+Added Pin To Net: NetName=LEDK Pin=T1-14
+Added Member To Class: ClassName=QVGA Member=Component T1 TM022HDH26
+Added Room: Name=QVGA

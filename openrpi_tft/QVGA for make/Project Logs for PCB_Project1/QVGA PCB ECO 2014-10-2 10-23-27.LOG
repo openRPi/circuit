@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=26 NewDesignator=P1
+Change Component Designator: OldDesignator=26 NewDesignator=P2
+Added Member To Class: ClassName=QVGA Member=Component P1 raspberry_b
+Added Member To Class: ClassName=QVGA Member=Component P2 PIN
+Added Member To Class: ClassName=QVGA Member=Component R1 1K
+Added Room: Name=QVGA
