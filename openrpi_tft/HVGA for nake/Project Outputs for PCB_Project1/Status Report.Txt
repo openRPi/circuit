@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project1.PrjPCB]
+   Generated File[HVGA.RUL]
+   Generated File[HVGA.EXTREP]
+   Generated File[HVGA.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:06:35 On 2014/10/3

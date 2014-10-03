@@ -1,0 +1,109 @@
+Protel Design System Design Rule Check
+PCB File : E:\Altium Designer\openrpi_project\TFT_for_openrpi\HVGA for nake\HVGA.PcbDoc
+Date     : 2014/10/3
+Time     : 22:58:17
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=13mil) (Max=15mil) (Preferred=13mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint (108.268mil > 100mil) : Via (5085mil,4385mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (108.268mil > 100mil) : Via (2805mil,4385mil) Top Layer to Bottom Layer
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
+   Violation between Via (4211mil,3595mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-30(4347.7mil,3624.954mil)  Top Layer
+   Violation between Via (4205mil,3518mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-27(4347.7mil,3530.464mil)  Top Layer
+   Violation between Via (4491mil,3521mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-27(4347.7mil,3530.464mil)  Top Layer
+   Violation between Via (4205mil,3518mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-26(4347.7mil,3498.968mil)  Top Layer
+   Violation between Via (4491mil,3521mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-26(4347.7mil,3498.968mil)  Top Layer
+   Violation between Via (4490mil,3445mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-25(4347.7mil,3467.472mil)  Top Layer
+   Violation between Via (4490mil,3445mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-24(4347.7mil,3435.976mil)  Top Layer
+   Violation between Via (4490mil,3404.48mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-23(4347.7mil,3404.48mil)  Top Layer
+   Violation between Via (4490mil,3357mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-22(4347.7mil,3372.984mil)  Top Layer
+   Violation between Via (4490mil,3357mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-21(4347.7mil,3341.488mil)  Top Layer
+   Violation between Via (4490mil,3310mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-20(4347.7mil,3309.992mil)  Top Layer
+   Violation between Via (4211mil,3032mil) Top Layer to Bottom Layer and 
+                     Pad JTD040051S0-FPC-12(4347.7mil,3058.024mil)  Top Layer
+   Violation between Pad U1-10(3602.126mil,3416.024mil)  Bottom Layer and 
+                     Pad U1-9(3602.126mil,3390.434mil)  Bottom Layer
+   Violation between Pad U1-11(3602.126mil,3441.614mil)  Bottom Layer and 
+                     Pad U1-10(3602.126mil,3416.024mil)  Bottom Layer
+   Violation between Via (3524mil,3441.614mil) Top Layer to Bottom Layer and 
+                     Pad U1-11(3602.126mil,3441.614mil)  Bottom Layer
+   Violation between Pad U1-12(3602.126mil,3467.204mil)  Bottom Layer and 
+                     Pad U1-11(3602.126mil,3441.614mil)  Bottom Layer
+   Violation between Pad U1-13(3602.126mil,3492.796mil)  Bottom Layer and 
+                     Pad U1-12(3602.126mil,3467.204mil)  Bottom Layer
+   Violation between Pad U1-14(3602.126mil,3518.386mil)  Bottom Layer and 
+                     Pad U1-13(3602.126mil,3492.796mil)  Bottom Layer
+   Violation between Pad U1-15(3602.126mil,3543.976mil)  Bottom Layer and 
+                     Pad U1-14(3602.126mil,3518.386mil)  Bottom Layer
+   Violation between Pad U1-16(3602.126mil,3569.566mil)  Bottom Layer and 
+                     Pad U1-15(3602.126mil,3543.976mil)  Bottom Layer
+   Violation between Pad U1-7(3867.874mil,3416.024mil)  Bottom Layer and 
+                     Pad U1-8(3867.874mil,3390.434mil)  Bottom Layer
+   Violation between Pad U1-6(3867.874mil,3441.614mil)  Bottom Layer and 
+                     Pad U1-7(3867.874mil,3416.024mil)  Bottom Layer
+   Violation between Pad U1-5(3867.874mil,3467.204mil)  Bottom Layer and 
+                     Pad U1-6(3867.874mil,3441.614mil)  Bottom Layer
+   Violation between Pad U1-4(3867.874mil,3492.796mil)  Bottom Layer and 
+                     Pad U1-5(3867.874mil,3467.204mil)  Bottom Layer
+   Violation between Pad U1-3(3867.874mil,3518.386mil)  Bottom Layer and 
+                     Pad U1-4(3867.874mil,3492.796mil)  Bottom Layer
+   Violation between Pad U1-2(3867.874mil,3543.976mil)  Bottom Layer and 
+                     Pad U1-3(3867.874mil,3518.386mil)  Bottom Layer
+   Violation between Pad U1-1(3867.874mil,3569.566mil)  Bottom Layer and 
+                     Pad U1-2(3867.874mil,3543.976mil)  Bottom Layer
+   Violation between Via (4123.088mil,2941mil) Top Layer to Bottom Layer and 
+                     Via (4125mil,2902mil) Top Layer to Bottom Layer
+   Violation between Via (4211mil,2964mil) Top Layer to Bottom Layer and 
+                     Via (4182mil,2933mil) Top Layer to Bottom Layer
+   Violation between Via (4490mil,3404.48mil) Top Layer to Bottom Layer and 
+                     Via (4490mil,3445mil) Top Layer to Bottom Layer
+Rule Violations :30
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
+Rule Violations :0
+
+
+Violations Detected : 32
+Time Elapsed        : 00:00:01

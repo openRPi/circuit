@@ -1,0 +1,32 @@
+Added Component: Designator=JTD040051S0-FPC(JTD040051S0-FPC)
+Added Pin To Net: NetName=GND Pin=JTD040051S0-FPC-1
+Added Pin To Net: NetName=3.3V Pin=JTD040051S0-FPC-2
+Added Pin To Net: NetName=LCD_H_CS Pin=JTD040051S0-FPC-3
+Added Pin To Net: NetName=LCD_DC Pin=JTD040051S0-FPC-4
+Added Pin To Net: NetName=LCD_WR Pin=JTD040051S0-FPC-5
+Added Pin To Net: NetName=LCD_RD Pin=JTD040051S0-FPC-6
+Added Pin To Net: NetName=LEDK Pin=JTD040051S0-FPC-7
+Added Pin To Net: NetName=X- Pin=JTD040051S0-FPC-8
+Added Pin To Net: NetName=Y+ Pin=JTD040051S0-FPC-9
+Added Pin To Net: NetName=X+ Pin=JTD040051S0-FPC-10
+Added Pin To Net: NetName=Y- Pin=JTD040051S0-FPC-11
+Added Pin To Net: NetName=3.3V Pin=JTD040051S0-FPC-12
+Added Pin To Net: NetName=LEDK Pin=JTD040051S0-FPC-13
+Added Pin To Net: NetName=LEDK Pin=JTD040051S0-FPC-14
+Added Pin To Net: NetName=LEDK Pin=JTD040051S0-FPC-15
+Added Pin To Net: NetName=LEDK Pin=JTD040051S0-FPC-16
+Added Pin To Net: NetName=LEDK Pin=JTD040051S0-FPC-17
+Added Pin To Net: NetName=LEDK Pin=JTD040051S0-FPC-18
+Added Pin To Net: NetName=LCD_DB0 Pin=JTD040051S0-FPC-19
+Added Pin To Net: NetName=LCD_DB1 Pin=JTD040051S0-FPC-20
+Added Pin To Net: NetName=LCD_DB2 Pin=JTD040051S0-FPC-21
+Added Pin To Net: NetName=LCD_DB3 Pin=JTD040051S0-FPC-22
+Added Pin To Net: NetName=LCD_DB4 Pin=JTD040051S0-FPC-23
+Added Pin To Net: NetName=LCD_DB5 Pin=JTD040051S0-FPC-24
+Added Pin To Net: NetName=LCD_DB6 Pin=JTD040051S0-FPC-25
+Added Pin To Net: NetName=LCD_DB7 Pin=JTD040051S0-FPC-26
+Added Pin To Net: NetName=LCD_RESET Pin=JTD040051S0-FPC-27
+Added Pin To Net: NetName=LEDK Pin=JTD040051S0-FPC-28
+Added Pin To Net: NetName=3.3V Pin=JTD040051S0-FPC-29
+Added Pin To Net: NetName=GND Pin=JTD040051S0-FPC-30
+Added Member To Class: ClassName=HVGA Member=Component JTD040051S0-FPC
